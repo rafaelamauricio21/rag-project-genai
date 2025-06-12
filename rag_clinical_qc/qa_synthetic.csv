@@ -1,0 +1,35 @@
+question,answer,source_section
+What is the purpose of the Investigator’s Brochure?,To document scientific information on the investigational product.,8.2.1
+Who should retain a copy of the signed protocol and sample CRF?,Both the investigator/institution and the sponsor.,8.2.2
+Why are financial aspects of the trial documented?,To record the agreement between the investigator and sponsor regarding trial-related finances.,8.2.4
+What document confirms ethical approval from an IRB or IEC?,IRB/IEC Approval Documents.,8.2.7
+What is documented in Monitoring Visit Reports?,Site visits by and findings of the monitor.,8.3.10
+What is an Adverse Drug Reaction (ADR)?,"A noxious and unintended response to a medicinal product related to any dose, with at least a reasonable possibility of a causal relationship.",1.1
+Define 'Audit Trail' in GCP terms.,Documentation that allows reconstruction of the course of events.,1.9
+What is a Case Report Form (CRF)?,A document designed to record all protocol-required information to be reported to the sponsor on each trial subject.,1.11
+What does 'Compliance' mean in clinical trials?,"Adherence to all trial-related requirements, GCP, and applicable regulatory requirements.",1.15
+Which principle ensures that trial subjects' well-being prevails over science?,"The rights, safety, and well-being of trial subjects should prevail over the interests of science and society.",2.3
+What must be obtained from every subject prior to trial participation?,Freely given informed consent.,2.9
+How often should an IRB/IEC conduct continuing review of an ongoing trial?,At least once per year.,3.1.4
+What should an IRB/IEC do before a subject is admitted to a trial?,Issue its written approval or favourable opinion of the trial.,3.3.6
+What is the sponsor responsible for under quality assurance?,Implementing and maintaining systems to ensure trials are conducted and data are compliant with GCP and regulatory requirements.,5.1.1
+What must be done if data is transformed during processing?,It must always be possible to compare original and processed data.,5.5.4
+What is the purpose of the Insurance Statement in clinical trials?,To document that compensation for trial-related injury will be available.,8.2.5
+What does the Documentation of IP Destruction confirm?,That unused investigational products were properly destroyed.,8.4.2
+What document permits identification of all subjects in follow-up?,The completed Subject Identification Code List.,8.4.3
+Where is the Clinical Study Report stored?,"With the sponsor and, if applicable, the investigator.",8.4.8
+What is Direct Access in clinical trials?,"Permission to examine, analyze, verify, and reproduce any records important to trial evaluation.",1.21
+Define Source Data.,Information in original or certified copies necessary for reconstruction and evaluation of a trial.,1.51
+What is a Certified Copy in clinical trial documentation?,A verified copy of the original record with identical content and structure.,1.63
+What does a Monitoring Report include?,A written report from the monitor summarizing findings from trial site visits.,1.39
+What must a trial protocol receive before a trial begins?,Prior IRB/IEC approval or favourable opinion.,2.6
+Who is responsible for subject medical decisions during a trial?,A qualified physician or dentist.,2.7
+How should clinical trial information be stored?,"In a way that allows accurate reporting, interpretation, and verification.",2.10
+What should IRB/IEC records include?,"Written procedures, membership lists, submitted documents, and meeting minutes.",3.4
+What happens if a protocol change is needed during a trial?,"The change must be approved in writing by the IRB/IEC before being implemented, unless it removes immediate hazards.",3.3.7
+Who retains the ultimate responsibility for data quality if a CRO is involved?,The sponsor.,5.2.1
+What must be ensured when using electronic trial data systems?,"Validation, security, audit trails, and SOPs must be in place.",5.5.3
+When should the sponsor inform investigators that records are no longer needed?,"In writing, once the retention period is over.",5.5.12
+What should the sponsor do if an investigator is noncompliant?,Terminate participation and notify regulatory authorities.,5.20.2
+What document evaluates trial conduct and GCP compliance independently?,An audit report.,5.19.3
+What is the purpose of centralized monitoring?,Remote evaluation of accumulating data to complement or reduce on-site visits.,5.18.3
