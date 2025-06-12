@@ -1,0 +1,232 @@
+5. SPONSOR: ICH E6 (R2) Good clinical practice
+
+ADDENDUM
+5.0 Quality Management
+The sponsor should implement a system to manage quality throughout all stages of the trial process.
+Sponsors should focus on trial activities essential to ensuring human subject protection and the reliability of trial results. Quality management includes the design of efficient clinical trial protocols and tools and procedures for data collection and processing, as well as the collection of information that is essential to decision making.
+The methods used to assure and control the quality of the trial should be proportionate to the risks inherent in the trial and the importance of the information collected. The sponsor should ensure that all aspects of the trial are operationally feasible and should avoid unnecessary complexity, procedures, and data collection. Protocols, case report forms, and other operational documents should be clear, concise, and consistent.
+The quality management system should use a risk-based approach as described below.
+5.0.1 Critical Process and Data Identification
+During protocol development, the sponsor should identify those processes and data that are critical to ensure human subject protection and the reliability of trial results.
+5.0.2 Risk Identification
+The sponsor should identify risks to critical trial processes and data. Risks should be considered at both the system level (e.g., standard operating procedures, computerized systems, personnel) and clinical trial level (e.g., trial design, data collection, informed consent process).
+5.0.3 Risk Evaluation
+The sponsor should evaluate the identified risks, against existing risk controls by considering:
+(a) The likelihood of errors occurring.
+(b) The extent to which such errors would be detectable.
+c) The impact of such errors on human subject protection and reliability of trial results.
+5.0.4 Risk Control
+The sponsor should decide which risks to reduce and/or which risks to accept. The approach used to reduce risk to an acceptable level should be proportionate to the significance of the risk. Risk reduction activities may be incorporated in protocol design and implementation, monitoring plans, agreements between parties defining roles and responsibilities, systematic safeguards to ensure adherence to standard operating procedures, and training in processes and procedures.
+Predefined quality tolerance limits should be established, taking into consideration the medical and statistical characteristics of the variables as well as the statistical design of the trial, to identify systematic issues that can impact subject safety or reliability of trial results. Detection of deviations from the predefined quality tolerance limits should trigger an evaluation to determine if action is needed.
+5.0.5 Risk Communication
+The sponsor should document quality management activities. The sponsor should communicate quality management activities to those who are involved in or affected by such activities, to facilitate risk review and continual improvement during clinical trial execution.
+5.0.6 Risk Review
+The sponsor should periodically review risk control measures to ascertain whether the implemented quality management activities remain effective and relevant, taking into account emerging knowledge and experience.
+5.0.7 Risk Reporting
+The sponsor should describe the quality management approach implemented in the trial and summarize important deviations from the predefined quality tolerance limits and remedial actions taken in the clinical study report (ICH E3, Section 9.6 Data Quality Assurance).
+5.1 Quality Assurance and Quality Control
+5.1.1 The sponsor is responsible for implementing and maintaining quality assurance and quality control systems with written SOPs to ensure that trials are conducted and data are generated, documented (recorded), and reported in compliance with the protocol, GCP, and the applicable regulatory requirement(s).
+5.1.2 The sponsor is responsible for securing agreement from all involved parties to ensure direct access (see 1.21) to all trial related sites, source data/documents , and reports for the purpose of monitoring and auditing by the sponsor, and inspection by domestic and foreign regulatory authorities.
+5.1.3 Quality control should be applied to each stage of data handling to ensure that all data are reliable and have been processed correctly.
+5.1.4 Agreements, made by the sponsor with the investigator/institution and any other parties involved with the clinical trial, should be in writing, as part of the protocol or in a separate agreement.
+5.2 Contract Research Organization (CRO)
+5.2.1 A sponsor may transfer any or all of the sponsor's trial-related duties and functions to a CRO, but the ultimate responsibility for the quality and integrity of the trial data always resides with the sponsor. The CRO should implement quality assurance and quality control.
+5.2.2 Any trial-related duty and function that is transferred to and assumed by a CRO should be specified in writing.
+ADDENDUM
+The sponsor should ensure oversight of any trial-related duties and functions carried out on its behalf, including trial-related duties and functions that are subcontracted to another party by the sponsor’s contracted CRO(s).
+5.2.3 Any trial-related duties and functions not specifically transferred to and assumed by a CRO are retained by the sponsor.
+5.2.4 All references to a sponsor in this guideline also apply to a CRO to the extent that a CRO has assumed the trial related duties and functions of a sponsor.
+5.3 Medical Expertise
+The sponsor should designate appropriately qualified medical personnel who will be readily available to advise on trial related medical questions or problems. If necessary, outside consultant(s) may be appointed for this purpose.
+5.4 Trial Design
+5.4.1 The sponsor should utilize qualified individuals (e.g. biostatisticians, clinical pharmacologists, and physicians) as appropriate, throughout all stages of the trial process, from designing the protocol and CRFs and planning the analyses to analyzing and preparing interim and final clinical trial reports.
+5.4.2 For further guidance: Clinical Trial Protocol and Protocol Amendment(s) (see 6.), the ICH Guideline for Structure and Content of Clinical Study Reports, and other appropriate ICH guidance on trial design, protocol and conduct.
+5.5 Trial Management, Data Handling, and Record Keeping
+5.5.1 The sponsor should utilize appropriately qualified individuals to supervise the overall conduct of the trial, to handle the data, to verify the data, to conduct the statistical analyses, and to prepare the trial reports.
+5.5.2 The sponsor may consider establishing an independent data-monitoring committee (IDMC) to assess the progress of a clinical trial, including the safety data and the critical efficacy endpoints at intervals, and to recommend to the sponsor whether to continue, modify, or stop a trial. The IDMC should have written operating procedures and maintain written records of all its meetings.
+5.5.3 When using electronic trial data handling and/or remote electronic trial data systems, the sponsor should:
+(a) Ensure and document that the electronic data processing system(s) conforms to the sponsor’s established requirements for completeness, accuracy, reliability, and consistent intended performance (i.e. validation).
+ADDENDUM
+The sponsor should base their approach to validation of such systems on a risk assessment that takes into consideration the intended use of the system and the potential of the system to affect human subject protection and reliability of trial results.
+(b) Maintains SOPs for using these systems.
+ADDENDUM
+The SOPs should cover system setup, installation, and use. The SOPs should describe system validation and functionality testing, data collection and handling, system maintenance, system security measures, change control, data backup, recovery, contingency planning, and decommissioning. The responsibilities of the sponsor, investigator, and other parties with respect to the use of these computerized systems should be clear, and the users should be provided with training in their use.
+(c) Ensure that the systems are designed to permit data changes in such a way that the data changes are documented and that there is no deletion of entered data (i.e. maintain an audit trail, data trail, edit trail).
+(d) Maintain a security system that prevents unauthorized access to the data.
+(e) Maintain a list of the individuals who are authorized to make data changes (see 4.1.5 and 4.9.3).
+(g) Safeguard the blinding, if any (e.g. maintain the blinding during data entry and processing).
+ADDENDUM
+(h) Ensure the integrity of the data including any data that describe the context, content, and structure. This is particularly important when making changes to the computerized systems, such as software upgrades or migration of data.
+5.5.4 If data are transformed during processing, it should always be possible to compare the original data and observations with the processed data.
+5.5.5 The sponsor should use an unambiguous subject identification code (see 1.58) that allows identification of all the data reported for each subject.
+5.5.6 The sponsor, or other owners of the data, should retain all of the sponsor-specific essential documents pertaining to the trial (see 8. Essential Documents for the Conduct of a Clinical Trial).
+5.5.7 The sponsor should retain all sponsor-specific essential documents in conformance with the applicable regulatory requirement(s) of the country(ies) where the product is approved, and/or where the sponsor intends to apply for approval(s).
+5.5.8 If the sponsor discontinues the clinical development of an investigational product (i.e. for any or all indications, routes of administration, or dosage forms), the sponsor should maintain all sponsor-specific essential documents for at least 2 years after formal discontinuation or in conformance with the applicable regulatory requirement(s).
+5.5.9 If the sponsor discontinues the clinical development of an investigational product, the sponsor should notify all the trial investigators/institutions and all the regulatory authorities.
+5.5.10 Any transfer of ownership of the data should be reported to the appropriate authority(ies), as required by the applicable regulatory requirement(s).
+5.5.11 The sponsor specific essential documents should be retained until at least 2 years after the last approval of a marketing application in an ICH region and until there are no pending or contemplated marketing applications in an ICH region or at least 2 years have elapsed since the formal discontinuation of clinical development of the investigational product. These documents should be retained for a longer period however if required by the applicable regulatory requirement(s) or if needed by the sponsor.
+5.5.12 The sponsor should inform the investigator(s)/institution(s) in writing of the need for record retention and should notify the investigator(s)/institution(s) in writing when the trial related records are no longer needed.
+5.6 Investigator Selection
+5.6.1 The sponsor is responsible for selecting the investigator(s)/institution(s). Each investigator should be qualified by training and experience and should have adequate resources (see 4.1, 4.2) to properly conduct the trial for which the investigator is selected. If organization of a coordinating committee and/or selection of coordinating investigator(s) are to be utilized in multicentre trials, their organization and/or selection are the sponsor's responsibility.
+5.6.2 Before entering an agreement with an investigator/institution to conduct a trial, the sponsor should provide the investigator(s)/institution(s) with the protocol and an up-to-date Investigator's Brochure, and should provide sufficient time for the investigator/institution to review the protocol and the information provided.
+5.6.3 The sponsor should obtain the investigator's/institution's agreement:
+(a) to conduct the trial in compliance with GCP, with the applicable regulatory requirement(s) (see 4.1.3), and with the protocol agreed to by the sponsor and given approval/favourable opinion by the IRB/IEC (see 4.5.1);
+(b) to comply with procedures for data recording/reporting;
+(c) to permit monitoring, auditing and inspection (see 4.1.4) and
+(d) to retain the trial related essential documents until the sponsor informs the investigator/institution these documents are no longer needed (see 4.9.4 and 5.5.12).
+The sponsor and the investigator/institution should sign the protocol, or an alternative document, to confirm this agreement.
+5.7 Allocation of Responsibilities
+Prior to initiating a trial, the sponsor should define, establish, and allocate all trial-related duties and functions.
+5.8 Compensation to Subjects and Investigators
+5.8.1 If required by the applicable regulatory requirement(s), the sponsor should provide insurance or should indemnify (legal and financial coverage) the investigator/the institution against claims arising from the trial, except for claims that arise from malpractice and/or negligence.
+5.8.2 The sponsor's policies and procedures should address the costs of treatment of trial subjects in the event of trial-related injuries in accordance with the applicable regulatory requirement(s).
+5.8.3 When trial subjects receive compensation, the method and manner of compensation should comply with applicable regulatory requirement(s).
+5.9 Financing
+The financial aspects of the trial should be documented in an agreement between the sponsor and the investigator/institution.
+5.10 Notification/Submission to Regulatory Authority(ies)
+Before initiating the clinical trial(s), the sponsor (or the sponsor and the investigator, if required by the applicable regulatory requirement(s)) should submit any required application(s) to the appropriate authority(ies) for review, acceptance, and/or permission (as required by the applicable regulatory requirement(s)) to begin the trial(s). Any notification/submission should be dated and contain sufficient information to identify the protocol.
+5.11 Confirmation of Review by IRB/IEC
+5.11.1 The sponsor should obtain from the investigator/institution:
+(a) The name and address of the investigator's/institution’s IRB/IEC.
+(b) A statement obtained from the IRB/IEC that it is organized and operates according to GCP and the applicable laws and regulations.
+(c) Documented IRB/IEC approval/favourable opinion and, if requested by the sponsor, a current copy of protocol, written informed consent form(s) and any other written information to be provided to subjects, subject recruiting procedures, and documents related to payments and compensation available to the subjects, and any other documents that the IRB/IEC may have requested.
+5.11.2 If the IRB/IEC conditions its approval/favourable opinion upon change(s) in any aspect of the trial, such as modification(s) of the protocol, written informed consent form and any other written information to be provided to subjects, and/or other procedures, the sponsor should obtain from the investigator/institution a copy of the modification(s) made and the date approval/favourable opinion was given by the IRB/IEC.
+5.11.3 The sponsor should obtain from the investigator/institution documentation and dates of any IRB/IEC reapprovals/re-evaluations with favourable opinion, and of any withdrawals or suspensions of approval/favourable opinion.
+5.12 Information on Investigational Product(s)
+5.12.1 When planning trials, the sponsor should ensure that sufficient safety and efficacy data from nonclinical studies and/or clinical trials are available to support human exposure by the route, at the dosages, for the duration, and in the trial population to be studied.
+5.12.2 The sponsor should update the Investigator's Brochure as significant new information becomes available (see 7. Investigator's Brochure).
+5.13 Manufacturing, Packaging, Labelling, and Coding Investigational Product(s)
+5.13.1 The sponsor should ensure that the investigational product(s) (including active comparator(s) and placebo, if applicable) is characterized as appropriate to the stage of development of the product(s), is manufactured in accordance with any applicable GMP, and is coded and labelled in a manner that protects the blinding, if applicable. In addition, the labelling should comply with applicable regulatory requirement(s).
+5.13.2 The sponsor should determine, for the investigational product(s), acceptable storage temperatures, storage conditions (e.g. protection from light), storage times, reconstitution fluids and procedures, and devices for product infusion, if any. The sponsor should inform all involved parties (e.g. monitors, investigators, pharmacists, storage managers) of these determinations.
+5.13.3 The investigational product(s) should be packaged to prevent contamination and unacceptable deterioration during transport and storage.
+5.13.4 In blinded trials, the coding system for the investigational product(s) should include a mechanism that permits rapid identification of the product(s) in case of a medical emergency, but does not permit undetectable breaks of the blinding.
+5.13.5 If significant formulation changes are made in the investigational or comparator product(s) during the course of clinical development, the results of any additional studies of the formulated product(s) (e.g. stability, dissolution rate, bioavailability) needed to assess whether these changes would significantly alter the pharmacokinetic profile of the product should be available prior to the use of the new formulation in clinical trials.
+ 
+5.14 Supplying and Handling Investigational Product(s)
+ 
+5.14.1 The sponsor is responsible for supplying the investigator(s)/institution(s) with the investigational product(s).
+5.14.2 The sponsor should not supply an investigator/institution with the investigational product(s) until the sponsor obtains all required documentation (e.g. approval/favourable opinion from IRB/IEC and regulatory authority(ies)).
+5.14.3 The sponsor should ensure that written procedures include instructions that the investigator/institution should follow for the handling and storage of investigational product(s) for the trial and documentation thereof. The procedures should address adequate and safe receipt, handling, storage, dispensing, retrieval of unused product from subjects, and return of unused investigational product(s) to the sponsor (or alternative disposition if authorized by the sponsor and in compliance with the applicable regulatory requirement(s)).
+5.14.4 The sponsor should:
+(a) Ensure timely delivery of investigational product(s) to the investigator(s).
+(b) Maintain records that document shipment, receipt, disposition, return, and destruction of the investigational product(s) (see 8. Essential Documents for the Conduct of a Clinical Trial).
+(c) Maintain a system for retrieving investigational products and documenting this retrieval (e.g. for deficient product recall, reclaim after trial completion, expired product reclaim).
+(d) Maintain a system for the disposition of unused investigational product(s) and for the documentation of this disposition.
+5.14.5 The sponsor should:
+(a) Take steps to ensure that the investigational product(s) are stable over the period of use.
+(b) Maintain sufficient quantities of the investigational product(s) used in the trials to reconfirm specifications, should this become necessary, and maintain records of batch sample analyses and characteristics. To the extent stability permits, samples should be retained either until the analyses of the trial data are complete or as required by the applicable regulatory requirement(s), whichever represents the longer retention period.
+5.15 Record Access
+5.15.1 The sponsor should ensure that it is specified in the protocol or other written agreement that the investigator(s)/institution(s) provide direct access to source data/documents for trial-related monitoring, audits, IRB/IEC review, and regulatory inspection.
+5.15.2 The sponsor should verify that each subject has consented, in writing, to direct access to his/her original medical records for trial-related monitoring, audit, IRB/IEC review, and regulatory inspection.
+5.16 Safety Information
+5.16.1 The sponsor is responsible for the ongoing safety evaluation of the investigational product(s).
+5.16.2 The sponsor should promptly notify all concerned investigator(s)/institution(s) and the regulatory authority(ies) of findings that could affect adversely the safety of subjects, impact the conduct of the trial, or alter the IRB/IEC's approval/favourable opinion to continue the trial.
+5.17 Adverse Drug Reaction Reporting
+5.17.1 The sponsor should expedite the reporting to all concerned investigator(s)/institutions(s), to the IRB(s)/IEC(s), where required, and to the regulatory authority(ies) of all adverse drug reactions (ADRs) that are both serious and unexpected.
+5.17.2 Such expedited reports should comply with the applicable regulatory requirement(s) and with the ICH Guideline for Clinical Safety Data Management: Definitions and Standards for Expedited Reporting.
+5.17.3 The sponsor should submit to the regulatory authority(ies) all safety updates and periodic reports, as required by applicable regulatory requirement(s).
+5.18 Monitoring
+5.18.1 Purpose
+The purposes of trial monitoring are to verify that:
+(a) The rights and well-being of human subjects are protected.
+(b) The reported trial data are accurate, complete, and verifiable from source documents.
+(c) The conduct of the trial is in compliance with the currently approved protocol/amendment(s), with GCP, and with the applicable regulatory requirement(s).
+5.18.2 Selection and Qualifications of Monitors
+(a) Monitors should be appointed by the sponsor.
+(b) Monitors should be appropriately trained, and should have the scientific and/or clinical knowledge needed to monitor the trial adequately. A monitor’s qualifications should be documented.
+(c) Monitors should be thoroughly familiar with the investigational product(s), the protocol, written informed consent form and any other written information to be provided to subjects, the sponsor’s SOPs, GCP, and the applicable regulatory requirement(s).
+5.18.3 Extent and Nature of Monitoring The sponsor should ensure that the trials are adequately monitored. The sponsor should determine the appropriate extent and nature of monitoring. The determination of the extent and nature of monitoring should be based on considerations such as the objective, purpose, design, complexity, blinding, size, and endpoints of the trial. In general there is a need for on-site monitoring, before, during, and after the trial; however in exceptional circumstances the sponsor may determine that central monitoring in conjunction with procedures such as investigators’ training and meetings, and extensive written guidance can assure appropriate conduct of the trial in accordance with GCP. Statistically controlled sampling may be an acceptable method for selecting the data to be verified.
+ADDENDUM
+The sponsor should develop a systematic, prioritized, risk-based approach to monitoring clinical trials. The flexibility in the extent and nature of monitoring described in this section is intended to permit varied approaches that improve the effectiveness and efficiency of monitoring. The sponsor may choose on-site monitoring, a combination of on-site and centralized monitoring, or, where justified, centralized monitoring. The sponsor should document the rationale for the chosen monitoring strategy (e.g., in the monitoring plan).
+On-site monitoring is performed at the sites at which the clinical trial is being conducted. Centralized monitoring is a remote evaluation of accumulating data, performed in a timely manner, supported by appropriately qualified and trained persons (e.g., data managers, biostatisticians).
+Centralized monitoring processes provide additional monitoring capabilities that can complement and reduce the extent and/or frequency of on-site monitoring and help distinguish between reliable data and potentially unreliable data.
+Review, that may include statistical analyses, of accumulating data from centralized monitoring can be used to:
+ 
+identify missing data, inconsistent data, data outliers, unexpected lack of variability and protocol deviations.
+examine data trends such as the range, consistency, and variability of data within and across sites.
+evaluate for systematic or significant errors in data collection and reporting at a site or across sites; or potential data manipulation or data integrity problems.
+analyze site characteristics and performance metrics.
+select sites and/or processes for targeted on-site monitoring.
+ 
+5.18.4 Monitor's Responsibilities.
+The monitor(s) in accordance with the sponsor’s requirements should ensure that the trial is conducted and documented properly by carrying out the following activities when relevant and necessary to the trial and the trial site:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acting as the main line of communication between the sponsor and the investigator.
+Verifying that the investigator has adequate qualifications and resources (see 4.1, 4.2, 5.6) and remain adequate throughout the trial period, that facilities, including laboratories, equipment, and staff, are adequate to safely and properly conduct the trial and remain adequate throughout the trial period.
+Verifying, for the investigational product(s):
+That storage times and conditions are acceptable, and that supplies are sufficient throughout the trial.
+That the investigational product(s) are supplied only to subjects who are eligible to receive it and at the protocol specified dose(s).
+That subjects are provided with necessary instruction on properly using, handling, storing, and returning the investigational product(s).
+That the receipt, use, and return of the investigational product(s) at the trial sites are controlled and documented adequately.
+That the disposition of unused investigational product(s) at the trial sites complies with applicable regulatory requirement(s) and is in accordance with the sponsor.
+Verifying that the investigator follows the approved protocol and all approved amendment(s), if any.
+Verifying that written informed consent was obtained before each subject's participation in the trial.
+Ensuring that the investigator receives the current Investigator's Brochure, all documents, and all trial supplies needed to conduct the trial properly and to comply with the applicable regulatory requirement(s).
+Ensuring that the investigator and the investigator's trial staff are adequately informed about the trial.
+Verifying that the investigator and the investigator's trial staff are performing the specified trial functions, in accordance with the protocol and any other written agreement between the sponsor and the investigator/institution, and have not delegated these functions to unauthorized individuals.
+Verifying that the investigator is enroling only eligible subjects.
+Reporting the subject recruitment rate.
+Verifying that source documents and other trial records are accurate, complete, kept up-to-date and maintained.
+Verifying that the investigator provides all the required reports, notifications, applications, and submissions, and that these documents are accurate, complete, timely, legible, dated, and identify the trial.
+Checking the accuracy and completeness of the CRF entries, source documents and other trial-related records against each other. The monitor specifically should verify that:
+The data required by the protocol are reported accurately on the CRFs and are consistent with the source documents.
+Any dose and/or therapy modifications are well documented for each of the trial subjects.
+Adverse events, concomitant medications and intercurrent illnesses are reported in accordance with the protocol on the CRFs.
+Visits that the subjects fail to make, tests that are not conducted, and examinations that are not performed are clearly reported as such on the CRFs.
+All withdrawals and dropouts of enrolled subjects from the trial are reported and explained on the CRFs.
+Informing the investigator of any CRF entry error, omission, or illegibility. The monitor should ensure that appropriate corrections, additions, or deletions are made, dated, explained (if necessary), and initialled by the investigator or by a member of the investigator's trial staff who is authorized to initial CRF changes for the investigator. This authorization should be documented.
+Determining whether all adverse events (AEs) are appropriately reported within the time periods required by GCP, the protocol, the IRB/IEC, the sponsor, and the applicable regulatory requirement(s).
+Determining whether the investigator is maintaining the essential documents (see 8. Essential Documents for the Conduct of a Clinical Trial).
+Communicating deviations from the protocol, SOPs, GCP, and the applicable regulatory requirements to the investigator and taking appropriate action designed to prevent recurrence of the detected deviations.
+ 
+5.18.5 Monitoring Procedures
+The monitor(s) should follow the sponsor’s established written SOPs as well as those procedures that are specified by the sponsor for monitoring a specific trial.
+5.18.6 Monitoring Report
+ADDENDUM
+The monitor should submit a written report to the sponsor after each trial-site visit or trial-related communication.
+Reports should include the date, site, name of the monitor, and name of the investigator or other individual(s) contacted.
+Reports should include a summary of what the monitor reviewed and the monitor's statements concerning the significant findings/facts, deviations and deficiencies, conclusions, actions taken or to be taken and/or actions recommended to secure compliance.
+The review and follow-up of the monitoring report with the sponsor should be documented by the sponsor’s designated representative.
+Reports of on-site and/or centralized monitoring should be provided to the sponsor (including appropriate management and staff responsible for trial and site oversight) in a timely manner for review and follow up. Results of monitoring activities should be documented in sufficient detail to allow verification of compliance with the monitoring plan. Reporting of centralized monitoring activities should be regular and may be independent from site visits.
+ADDENDUM
+ 
+5.18.7 Monitoring Plan
+The sponsor should develop a monitoring plan that is tailored to the specific human subject protection and data integrity risks of the trial. The plan should describe the monitoring strategy, the monitoring responsibilities of all the parties involved, the various monitoring methods to be used, and the rationale for their use. The plan should also emphasize the monitoring of critical data and processes. Particular attention should be given to those aspects that are not routine clinical practice and that require additional training. The monitoring plan should reference the applicable policies and procedures.
+5.19 Audit
+If or when sponsors perform audits, as part of implementing quality assurance, they should consider:
+5.19.1. Purpose
+The purpose of a sponsor's audit, which is independent of and separate from routine monitoring or quality control functions, should be to evaluate trial conduct and compliance with the protocol, SOPs, GCP, and the applicable regulatory requirements.
+5.19.2 Selection and Qualification of Auditors
+The sponsor should appoint individuals, who are independent of the clinical trials/systems, to conduct audits.
+The sponsor should ensure that the auditors are qualified by training and experience to conduct audits properly. An auditor’s qualifications should be documented.
+5.19.3 Auditing Procedures
+The sponsor should ensure that the auditing of clinical trials/systems is conducted in accordance with the sponsor's written procedures on what to audit, how to audit, the frequency of audits, and the form and content of audit reports.
+The sponsor's audit plan and procedures for a trial audit should be guided by the importance of the trial to submissions to regulatory authorities, the number of subjects in the trial, the type and complexity of the trial, the level of risks to the trial subjects, and any identified problem(s).
+The observations and findings of the auditor(s) should be documented.
+To preserve the independence and value of the audit function, the regulatory authority(ies) should not routinely request the audit reports. Regulatory authority(ies) may seek access to an audit report on a case by case basis when evidence of serious GCP non-compliance exists, or in the course of legal proceedings.
+When required by applicable law or regulation, the sponsor should provide an audit certificate.
+5.20 Noncompliance
+5.20.1 Noncompliance with the protocol, SOPs, GCP, and/or applicable regulatory requirement(s) by an investigator/institution, or by member(s) of the sponsor's staff should lead to prompt action by the sponsor to secure compliance.
+ADDENDUM
+If noncompliance that significantly affects or has the potential to significantly affect human subject protection or reliability of trial results is discovered, the sponsor should perform a root cause analysis and implement appropriate corrective and preventive actions.
+ 
+5.20.2 If the monitoring and/or auditing identifies serious and/or persistent noncompliance on the part of an investigator/institution, the sponsor should terminate the investigator's/institution’s participation in the trial. When an investigator's/institution’s participation is terminated because of noncompliance, the sponsor should notify promptly the regulatory authority(ies).
+5.21 Premature Termination or Suspension of a Trial
+If a trial is prematurely terminated or suspended, the sponsor should promptly inform the investigators/institutions, and the regulatory authority(ies) of the termination or suspension and the reason(s) for the termination or suspension. The IRB/IEC should also be informed promptly and provided the reason(s) for the termination or suspension by the sponsor or by the investigator/institution, as specified by the applicable regulatory requirement(s).
+5.22 Clinical Trial/Study Reports
+Whether the trial is completed or prematurely terminated, the sponsor should ensure that the clinical trial reports are prepared and provided to the regulatory agency(ies) as required by the applicable regulatory requirement(s). The sponsor should also ensure that the clinical trial reports in marketing applications meet the standards of the ICH Guideline for Structure and Content of Clinical Study Reports. (NOTE: The ICH Guideline for Structure and Content of Clinical Study Reports specifies that abbreviated study reports may be acceptable in certain cases.)
+5.23 Multicentre Trials
+For multicentre trials, the sponsor should ensure that:
+5.23.1 All investigators conduct the trial in strict compliance with the protocol agreed to by the sponsor and, if required, by the regulatory authority(ies), and given approval/favourable opinion by the IRB/IEC.
+5.23.2 The CRFs are designed to capture the required data at all multicentre trial sites. For those investigators who are collecting additional data, supplemental CRFs should also be provided that are designed to capture the additional data.
+5.23.3 The responsibilities of coordinating investigator(s) and the other participating investigators are documented prior to the start of the trial.
+5.23.4 All investigators are given instructions on following the protocol, on complying with a uniform set of standards for the assessment of clinical and laboratory findings, and on completing the CRFs.
+5.23.5 Communication between investigators is facilitated
+Author: © European Medicines Agency, 2018

@@ -1,0 +1,92 @@
+### 8.1 Introduction
+Essential Documents are those which permit evaluation of the conduct of a trial and the quality of the data produced. They demonstrate compliance with GCP standards and regulatory requirements.
+
+These documents:
+- Support successful trial management
+- Are subject to audit and inspection
+- Are grouped by trial phase: before, during, after
+- Must be filed at both investigator and sponsor sites
+- Should be traceable, version-controlled, and securely archived
+
+ADDENDUM: Both sponsor and investigator must track document location, ensure certified copies if originals are replaced, and confirm continuous access to CRF data by the investigator.
+
+---
+
+### 8.2 BEFORE THE CLINICAL PHASE
+
+#### 8.2.1 Investigator’s Brochure
+- Purpose: Document scientific information on the investigational product
+- Located in files of: Investigator & Sponsor
+
+#### 8.2.2 Signed Protocol, Amendments, Sample CRF
+- Purpose: Document agreement to protocol and CRF format
+- Located in files of: Investigator & Sponsor
+
+#### 8.2.3 Informed Consent Form (all translations)
+- Purpose: Document subject’s consent
+- Located in: Investigator & Sponsor
+
+#### 8.2.4 Financial Aspects of the Trial
+- Purpose: Document financial agreement between investigator and sponsor
+- Located in: Investigator & Sponsor
+
+#### 8.2.5 Insurance Statement (if required)
+- Purpose: Document compensation availability for trial-related injuries
+- Located in: Investigator & Sponsor
+
+#### 8.2.6 Signed Agreements Between Involved Parties
+- Purpose: Document contractual agreements (e.g., CROs, sponsors)
+- Located in: All relevant parties’ files
+
+#### 8.2.7 IRB/IEC Approval Documents
+- Purpose: Document approval of protocol, CRF, informed consent, and recruitment ads
+- Located in: Investigator & Sponsor
+
+#### 8.2.10 CVs of Investigators
+- Purpose: Document qualifications
+- Located in: Investigator & Sponsor
+
+(And so on…)
+
+---
+
+### 8.3 DURING THE TRIAL
+
+#### 8.3.1 Investigator’s Brochure Updates
+- Purpose: Document updated information about the investigational product
+- Located in: Investigator & Sponsor
+
+#### 8.3.10 Monitoring Visit Reports
+- Purpose: Document findings from site visits
+- Located in: Sponsor
+
+#### 8.3.11 Other Communications (Letters, Notes, Calls)
+- Purpose: Document significant communications related to AE, protocol violations, etc.
+- Located in: Investigator & Sponsor
+
+#### 8.3.14 Completed CRFs
+- Purpose: Confirm data entries
+- Located in: Investigator (copy), Sponsor (original)
+
+(Continue similarly for a few more key entries…)
+
+---
+
+### 8.4 AFTER THE TRIAL
+
+#### 8.4.1 Investigational Product Accountability
+- Purpose: Confirm drug use and return
+- Located in: Investigator & Sponsor
+
+#### 8.4.2 Documentation of IP Destruction
+- Purpose: Confirm proper destruction of unused products
+- Located in: Investigator (if destroyed at site), Sponsor
+
+#### 8.4.6 Treatment Allocation and Decoding Documentation
+- Purpose: Document unblinding events
+- Located in: Sponsor
+
+#### 8.4.8 Clinical Study Report
+- Purpose: Provide results and interpretation
+- Located in: Sponsor, Investigator (if applicable)
+
